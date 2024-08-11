@@ -1,0 +1,9 @@
+{
+  "DFIntTaskSchedulerTargetFps": "10",
+  "FLogNetwork": "7",
+  "DFIntTaskSchedulerTargetFps": "10",
+  "FFlagDebugSkyGray": "True",
+  "FIntDebugTextureManagerSkipMips": "-1",
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True"
+}
