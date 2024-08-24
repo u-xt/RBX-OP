@@ -1,0 +1,9 @@
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
+  "DFIntTaskSchedulerTargetFps": "60",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "FIntDebugTextureManagerSkipMips": "-1",
+  "FFlagDisablePostFx": "True",
+  "FFlagDebugSkyGray": "True"
+}
