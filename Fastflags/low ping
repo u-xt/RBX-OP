@@ -1,0 +1,18 @@
+{
+  "DFIntRaknetBandwidthInfluxHundredthsPercentageV2": "10000",
+  "DFIntWaitOnUpdateNetworkLoopEndedMS": "100",
+  "DFIntLargePacketQueueSizeCutoffMB": "1000",
+  "DFIntMaxProcessPacketsStepsPerCyclic": "5000",
+  "FIntRakNetResendBufferArrayLength": "128",
+  "DFIntCodecMaxIncomingPackets": "100",
+  "DFIntRakNetClockDriftAdjustmentPerPingMillisecond": "100",
+  "DFIntMaxProcessPacketsJobScaling": "10000",
+  "DFIntRakNetResendRttMultiple": "1",
+  "DFIntConnectionMTUSize": "900",
+  "DFIntMegaReplicatorNetworkQualityProcessorUnit": "10",
+  "DFIntCodecMaxOutgoingFrames": "10000",
+  "DFIntMaxProcessPacketsStepsAccumulated": "0",
+  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
+  "DFIntRakNetLoopMs": "1",
+  "DFIntWaitOnRecvFromLoopEndedMS": "100"
+}
